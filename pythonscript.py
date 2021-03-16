@@ -1,1 +1,4 @@
-print("HELLO WORLD THIS IS ME LIFE SHOULD BE MMHMMH YEA FUN FOR EVERYONE")
+print("HELLO")
+
+
+print("sky high is an underrated disney masterpiece")
